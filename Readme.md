@@ -19,12 +19,7 @@ PS : Don't forget to follow [Contribution Guidelines](CONTRIBUTING.md)
 C++
 <br>
 
-<h1 align=center> Project Admin ⚡ </h1>
-<p align="center">
-  <a href="https://github.com/aaryahjolia"><img src="https://avatars.githubusercontent.com/u/82600388?v=4" width=150px height=150px /></a> 
-  <h4 align="center">
-  
-  [Aarya Ahjolia](https://github.com/aaryahjolia)
+
 
 </h4>
 </p>
